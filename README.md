@@ -6,7 +6,7 @@ This project involved reconnaissance and attack surface assessment in an isolate
 
 Tools Used
 
-Nmap — port scanning and service enumeration
+Nmap — port scanning, service enumeration and Operating system Fingerprinting
 
 curl and a web browser — web-service inspection
 
